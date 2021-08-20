@@ -41,7 +41,7 @@ function Calculator() {
 
       <div className="keypad">
         <button id="squareroot" onClick={sqrt2}>
-          root
+          √
         </button>
         <button id="clear" onClick={clear}>
           Clear
